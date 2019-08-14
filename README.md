@@ -32,3 +32,10 @@
     - [Dibya Ranjan Jena](https://github.com/dibyasonu)
   - Links :
     - https://github.com/dibyasonu/nlt-github/
+
+    
+- **Dark Theme Stopwatch** - A Dark Themed Stopwatch accurate upto a 1/100th of a Second
+  - Maintainers : 
+    - [Rohan Verma](https://github.com/MartyMiniac)
+  - Links :
+    - https://github.com/MartyMinaic/StopWatch
